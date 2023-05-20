@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5208ff08-f078-4a41-b8de-a08420d1413e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NRk6QXYfPNURUf9aGkm3ZLqTNo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5208ff08-f078-4a41-b8de-a08420d1413e" name="Default Changelist" comment="" />
+      <created>1679634107156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679634107156</updated>
+      <workItem from="1679634108324" duration="49000" />
+      <workItem from="1679634186504" duration="1826000" />
+      <workItem from="1679636050962" duration="728000" />
+      <workItem from="1679640474496" duration="1152000" />
+      <workItem from="1679641667071" duration="1991000" />
+      <workItem from="1679643673186" duration="1651000" />
+      <workItem from="1679668238659" duration="1795000" />
+      <workItem from="1679670059387" duration="1741000" />
+      <workItem from="1679724647835" duration="825000" />
+      <workItem from="1679725669196" duration="660000" />
+      <workItem from="1679726398072" duration="47000" />
+      <workItem from="1679726477056" duration="1792000" />
+      <workItem from="1679728299444" duration="1709000" />
+      <workItem from="1679730117388" duration="1339000" />
+      <workItem from="1679733322163" duration="717000" />
+      <workItem from="1679756711274" duration="599000" />
+      <workItem from="1679759986042" duration="622000" />
+      <workItem from="1679818240807" duration="1486000" />
+      <workItem from="1679819819133" duration="1788000" />
+      <workItem from="1679821637708" duration="1191000" />
+      <workItem from="1679823862471" duration="1074000" />
+      <workItem from="1679825723969" duration="569000" />
+      <workItem from="1679829320044" duration="1341000" />
+      <workItem from="1679973270008" duration="37000" />
+      <workItem from="1679984049340" duration="2000" />
+      <workItem from="1680269605696" duration="24000" />
+      <workItem from="1681448360513" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
